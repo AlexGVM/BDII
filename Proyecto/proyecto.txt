@@ -1,0 +1,35 @@
+-un usuario correo electrónico  -unique //LISTO
+
+-max de dos usuarios con el mismo nombre(completo) -trigger para la constraint after insert //LISTO
+
+-para cada publicación no pueden existir más de 3 comentarios -trigger para la constraint after insert   //LISTO
+-Tienen que haber suficientes N para M en donde N "me gusta" M "No me gusta" //LISTO *PENDIENTE METERLE LOS DATOS TODOS LOS TYPELIKE CON 1 EN LA TABLA LIKE 
+
+
+-Ingreso de usuarios
+.Cursor para recorrerlo
+LECTURA DE ARCHIVOS            //LISTO
+//No importa que la ruta este quemada
+
+
+-Publicación
+--Generación de datos en APEX y nivel aislamiento uncommitted
+
+-Interacción
+--manejado por id publicación y tipo nos vamos a la tabla bitácora y la manejamos con el id publicacion hacemos una función que haga un conteo de los likes y que nos muestre sus comentarios
+aislamento read commited 
+
+-Eliminación 
+--a partir activo en la tabla comentarios
+
+-Proceso para aumento de amigos
+--cada usuario tiene 50 amigos y solo estos puede interactuar con las publicaciones
+proc para contar y si llega la consulta a 15 se le hace un update al valor de amigos
+
+
+QUERIES:
+1. Número de usuarios nuevos por día y porcentaje de crecimiento. 
+2. Número de publicaciones al mes, con el 100% de su capacidad de comentarios
+llena.
+3. Detalle de publicaciones que en algún momento impactaron en el incremento de la
+cantidad máxima de amigos para un usuario.

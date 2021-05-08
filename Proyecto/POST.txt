@@ -1,0 +1,101 @@
+IDPOST,IDUSER,POSTTEXT,FECHA,IP,TIPODISPOSITIVO,IDTYPEPOST
+1,1,que buen meme,10/21/2020,201.117.82.42,tablet,3
+2,2,el cielo en tu mirada,10/22/2020,217.94.53.19,computadora,2
+3,3,me gusta base de datos 2,10/20/2020,214.116.196.160,consola,2
+4,4,que buena pelicula,10/22/2020,55.112.225.237,telefono,1
+5,5,me gusta base de datos 2,10/21/2020,62.226.237.8,consola,1
+6,6,que buen meme,10/21/2020,113.236.174.17,consola,3
+7,7,me gusta base de datos 2,10/21/2020,71.42.93.180,computadora,3
+8,8,que buena pelicula,10/22/2020,214.126.227.81,consola,2
+9,9,el cielo en tu mirada,10/20/2020,173.239.212.51,consola,3
+10,10,el cielo en tu mirada,10/20/2020,226.1.130.252,computadora,3
+11,11,el cielo en tu mirada,10/22/2020,168.182.43.57,computadora,3
+12,12,el cielo en tu mirada,10/21/2020,49.112.7.49,tablet,3
+13,13,que buena serie,10/21/2020,245.186.247.213,consola,1
+14,14,que buena serie,10/22/2020,216.71.228.96,tablet,2
+15,15,el cielo en tu mirada,10/22/2020,144.239.44.8,consola,1
+16,16,el cielo en tu mirada,10/21/2020,136.37.46.84,tablet,1
+17,17,que buena serie,10/20/2020,140.195.254.151,tablet,3
+18,18,me gusta base de datos 2,10/22/2020,212.188.132.64,tablet,1
+19,19,que buen meme,10/21/2020,36.31.138.120,computadora,2
+20,20,me gusta base de datos 2,10/21/2020,75.96.167.188,computadora,2
+21,21,que buen meme,10/22/2020,141.247.54.95,tablet,2
+22,22,me gusta base de datos 2,10/20/2020,180.20.75.98,computadora,3
+23,23,que buen meme,10/22/2020,171.141.77.240,telefono,1
+24,24,que buena serie,10/22/2020,237.24.185.14,tablet,3
+25,25,que buena serie,10/22/2020,223.92.52.125,telefono,3
+26,26,el cielo en tu mirada,10/22/2020,46.158.118.40,tablet,1
+27,27,que buena serie,10/21/2020,215.46.22.174,computadora,2
+28,28,que buena serie,10/20/2020,247.48.69.54,tablet,2
+29,29,me gusta base de datos 2,10/20/2020,124.27.45.168,telefono,3
+30,30,que buena pelicula,10/22/2020,116.108.119.0,computadora,2
+31,31,que buena pelicula,10/22/2020,245.169.143.34,tablet,3
+32,32,me gusta base de datos 2,10/20/2020,99.171.38.178,telefono,2
+33,33,que buena serie,10/22/2020,17.205.244.219,tablet,1
+34,34,que buena serie,10/20/2020,3.188.57.231,telefono,2
+35,35,que buena pelicula,10/20/2020,16.214.199.45,tablet,1
+36,36,que buena serie,10/21/2020,99.223.153.224,computadora,1
+37,37,que buen meme,10/20/2020,93.230.61.147,tablet,3
+38,38,que buen meme,10/22/2020,247.114.9.238,telefono,1
+39,39,me gusta base de datos 2,10/20/2020,236.238.18.188,computadora,3
+40,40,me gusta base de datos 2,10/20/2020,189.78.244.139,computadora,3
+41,41,que buen meme,10/22/2020,49.74.227.143,telefono,1
+42,42,que buen meme,10/22/2020,2.165.229.30,computadora,2
+43,43,que buena pelicula,10/21/2020,85.254.240.28,telefono,3
+44,44,que buen meme,10/20/2020,105.213.242.148,consola,2
+45,45,me gusta base de datos 2,10/22/2020,162.224.239.137,computadora,2
+46,46,el cielo en tu mirada,10/21/2020,233.111.212.235,computadora,2
+47,47,que buena serie,10/22/2020,247.3.185.250,computadora,2
+48,48,que buen meme,10/21/2020,111.196.46.44,telefono,1
+49,49,que buena serie,10/21/2020,0.126.200.57,tablet,1
+50,50,el cielo en tu mirada,10/20/2020,30.6.0.160,consola,2
+51,51,que buena pelicula,10/22/2020,80.102.75.77,telefono,1
+52,52,que buena pelicula,10/20/2020,39.123.223.92,consola,3
+53,53,me gusta base de datos 2,10/22/2020,89.123.139.233,telefono,1
+54,54,que buen meme,10/21/2020,94.137.48.111,telefono,3
+55,55,que buena pelicula,10/20/2020,61.204.158.119,computadora,1
+56,56,que buen meme,10/20/2020,118.116.211.136,computadora,1
+57,57,que buen meme,10/20/2020,249.226.178.96,telefono,2
+58,58,me gusta base de datos 2,10/22/2020,243.82.217.232,computadora,1
+59,59,que buena pelicula,10/22/2020,4.39.125.241,telefono,1
+60,60,que buena serie,10/22/2020,145.197.42.210,consola,2
+61,61,que buena pelicula,10/20/2020,44.157.0.35,tablet,3
+62,62,me gusta base de datos 2,10/20/2020,84.114.23.237,tablet,1
+63,63,que buen meme,10/20/2020,187.221.83.157,telefono,3
+64,64,el cielo en tu mirada,10/21/2020,176.106.252.97,consola,2
+65,65,que buena serie,10/20/2020,3.136.178.168,tablet,2
+66,66,que buen meme,10/20/2020,178.32.102.23,tablet,2
+67,67,me gusta base de datos 2,10/22/2020,27.29.3.139,telefono,3
+68,68,que buena pelicula,10/20/2020,115.192.81.147,computadora,3
+69,69,el cielo en tu mirada,10/22/2020,36.194.64.132,consola,1
+70,70,que buen meme,10/20/2020,147.161.0.163,consola,2
+71,71,que buena pelicula,10/20/2020,75.12.141.58,telefono,3
+72,72,me gusta base de datos 2,10/21/2020,121.198.162.117,computadora,3
+73,73,me gusta base de datos 2,10/21/2020,135.160.254.75,telefono,1
+74,74,que buena serie,10/22/2020,42.127.142.149,consola,1
+75,75,que buena pelicula,10/21/2020,243.112.75.61,tablet,1
+76,76,el cielo en tu mirada,10/22/2020,199.62.230.27,computadora,3
+77,77,que buena serie,10/20/2020,208.113.102.45,computadora,3
+78,78,que buena pelicula,10/20/2020,247.72.246.17,telefono,2
+79,79,que buena serie,10/22/2020,74.45.153.79,telefono,3
+80,80,que buena pelicula,10/21/2020,129.202.247.100,tablet,1
+81,81,el cielo en tu mirada,10/21/2020,230.81.109.52,computadora,1
+82,82,me gusta base de datos 2,10/21/2020,136.250.94.145,computadora,3
+83,83,que buena serie,10/20/2020,130.27.36.38,computadora,1
+84,84,me gusta base de datos 2,10/22/2020,194.62.56.147,telefono,3
+85,85,que buena serie,10/21/2020,224.22.251.85,consola,1
+86,86,que buena pelicula,10/20/2020,218.65.124.160,computadora,1
+87,87,que buen meme,10/22/2020,236.230.88.91,telefono,1
+88,88,el cielo en tu mirada,10/22/2020,105.157.156.121,computadora,2
+89,89,me gusta base de datos 2,10/20/2020,73.18.85.66,consola,3
+90,90,que buen meme,10/22/2020,243.178.247.102,telefono,3
+91,91,que buena serie,10/20/2020,238.220.109.54,telefono,3
+92,92,que buena serie,10/20/2020,159.132.110.51,consola,1
+93,93,me gusta base de datos 2,10/20/2020,35.28.109.71,telefono,1
+94,94,el cielo en tu mirada,10/22/2020,197.200.218.20,telefono,3
+95,95,que buena pelicula,10/20/2020,234.252.135.183,computadora,1
+96,96,el cielo en tu mirada,10/21/2020,92.206.53.9,telefono,2
+97,97,que buena pelicula,10/21/2020,222.196.181.80,consola,2
+98,98,que buena pelicula,10/20/2020,216.7.153.82,computadora,2
+99,99,me gusta base de datos 2,10/20/2020,66.10.193.215,tablet,1
+100,100,el cielo en tu mirada,10/20/2020,211.166.236.91,computadora,2

@@ -1,0 +1,13 @@
+confirmacion automatica es cuando hace el commit por si solo.
+explicita es cuando un usuario pode especificamente cuando se hace un commit o un rollback
+implicita es automatica el commit
+
+
+READ COMMITTED: no se puede leer los datos que no han sido confirmados por una transaccion.
+READ UNCOMMITED: deja ver los datos sin estar confirmados
+REPEATEABLE READ: lectura repetible, no se puede hacer nada si alguna transaccion esta corriendo, lo bloquea.
+Serializable = se ejecutan los datos secuencialmente y cuando se termine de ejecutar ya se puede usar la base
+de datos.
+
+Non-repeateable read = vuelve a leer datos 
+Phantom Read: 

@@ -1,0 +1,10 @@
+carpetas compartidas
+clustered: controlador de dominio server
+
+todos los que tengan año son server
+6 de ram
+almacenamiento min 30gb
+
+
+
+Microsoft Server Desktop escoger esa opcion
